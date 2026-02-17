@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Calculate the Average Aminoacid Identity (POCP) between two or
+Calculate the Average Aminoacid Identity (AAI) between two or
 more genomes 
 The program was written based on ()
 # Required:
